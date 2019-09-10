@@ -1,0 +1,116 @@
+
+ {
+ 	margin: 0;
+ 	padding: 0
+ }
+
+ header
+ {
+ 	background-size: cover;
+ 	background-position: center;
+ }
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 10px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Arial";
+	font-size: 20
+}
+
+.main-nav li.active a
+{
+	border: 1px solid black;
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid black;
+}
+
+ body
+ {
+ 	background-image: url(pen.png);
+ 	height: 100vh;
+ 	font-family: Arial
+	background-color: grey;
+}
+
+.aboutme
+{
+	font-family: sans-serif;
+}
+
+h5
+{
+	color: Blue;
+	font-size: 40px
+	text-align: left;
+	margin-top: 0px
+
+}
+.welcome
+{
+	position: absolute;
+	width: 1200px; 
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.welcome
+h1
+{
+	color: black;
+	font-size: 70px;
+	text-align: center;
+	margin-top: 275px
+}
+
+h5
+{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 275px
+}
+
+.col-sm-6
+p
+{
+	background-color: lightblue
+}
+
+.Contact
+
+form
+{
+	position: absolute;
+	width: 1200px;
+	margin-left: 0px;
+	margin-top: 300px;
+	color: black;
+	font-style: bold;
+
+}
+
+.Contact
+h1
+{
+	color: black
+	font-size: 30px;
+	text-align: center;
+	margin-top: 0px
+}

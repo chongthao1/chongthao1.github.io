@@ -1,0 +1,15 @@
+
+
+body{
+	background-color: lightblue
+}
+h1{
+	color: blue;
+}
+
+.boldClass{
+	font-weight: bold;
+}
+#bigId{
+	font-size: 50px;
+}
